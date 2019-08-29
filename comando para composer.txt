@@ -1,0 +1,23 @@
+Comando para baixar a release mais atualizadas, coloquei a pasta antiga e nova da versão php na pasta.
+
+comando:
+composer require phpmailer/phpmailer
+
+release que eu tentei usar tinha autoload, provavelmente criado pelo composer.
+
+
+versao atual:
+PHPMailer-6.0.7
+
+
+Dados pessoais para teste já está no arquivo, mas segue aqui também.
+
+
+HOST: mail.popsites.com.br
+USER : robson@popsites.com.br
+SENHA : 12345
+E-MAIL: robson@popsites.com.br
+PORTA: 465 OU 587 do tipo ssl ou tls respectivamente
+
+
+Link: https://packagist.org/packages/phpmailer/phpmailer#v6.0.7
